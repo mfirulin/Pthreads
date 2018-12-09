@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define NUM_OF_THREADS 1
+#define NUM_OF_THREADS 2
 
 struct job
 {
